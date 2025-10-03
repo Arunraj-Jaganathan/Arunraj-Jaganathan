@@ -56,6 +56,14 @@ Continuously exploring new frameworks and best practices to become a proficient 
 
 ---
 
+
+### 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ARUNRAJ)%?theme=dark&font=Roboto&ext=activity)
+
+
+---
+
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunraj05)
