@@ -59,7 +59,7 @@ Continuously exploring new frameworks and best practices to become a proficient 
 
 ### 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ARUNRAJ)%?theme=dark&font=Roboto&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ARUNRAJ)%?theme=light&font=Roboto&ext=activity)
 
 
 ---
